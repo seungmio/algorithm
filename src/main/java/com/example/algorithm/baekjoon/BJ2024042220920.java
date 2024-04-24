@@ -3,6 +3,8 @@ package com.example.algorithm.baekjoon;
 import java.io.*;
 import java.util.*;
 /*
+[정렬]
+
 우선순위를 차례로 적용
 1.자주 나오는 단어일수록 앞에 배치한다.
 2.해당 단어의 길이가 길수록 앞에 배치한다.

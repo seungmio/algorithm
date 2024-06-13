@@ -5,6 +5,10 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+## Customizing ##
+src/main/java/com/example/algorithm/hyundai/
+src/main/java/com/example/algorithm/handcodeprep/
+
 ### STS ###
 .apt_generated
 .classpath
